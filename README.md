@@ -5,8 +5,8 @@ A modern portfolio website for digital marketing services built with Express + E
 ## Tech Stack
 
 - **Backend:** Express.js
+- **Frontend:** HTML, CSS, JavaScript
 - **Templating:** EJS
-- **Hosting:** Vercel
 - **Style:** Modern dark theme with sleek animations
 
 ## Design
