@@ -1,0 +1,22 @@
+{
+  "name": "digital-marketing-portfolio",
+  "version": "1.0.0",
+  "description": "A modern portfolio website for digital marketing services",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": [
+    "portfolio",
+    "digital-marketing",
+    "express",
+    "ejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  }
+}
